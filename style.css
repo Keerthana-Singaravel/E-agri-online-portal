@@ -316,12 +316,8 @@ section{
     background-size: cover;
     padding-top: 17rem;
     padding-bottom: 10rem;
-
-    /* position: relative;
-    width: 100%; */
-    /* justify-content: space-between; */
     height: 100vh;
-    background :url(/images/banner-img.jpg)no-repeat;
+    background :url(images/banner-img.jpg)no-repeat;
     background-size: 100%;
     background-position: right;
     display: flex;
