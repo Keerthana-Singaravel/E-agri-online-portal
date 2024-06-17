@@ -310,14 +310,12 @@ section{
     border:0px solid;
     display:flex;
     justify-content: center;
-    /* background-image:url(../image/banner-img.jpg) no-repeat; */
-    /* background: #0ef; */
     background-position: center;
     background-size: cover;
     padding-top: 17rem;
     padding-bottom: 10rem;
     height: 100vh;
-    background :url(images/banner-img.jpg)no-repeat;
+    background:url(images/banner-img.jpg)no-repeat;
     background-size: 100%;
     background-position: right;
     display: flex;
